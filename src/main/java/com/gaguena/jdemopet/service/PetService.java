@@ -1,4 +1,4 @@
-package com.gaguena.jdemooauth.service;
+package com.gaguena.jdemopet.service;
 
 import java.util.Objects;
 import java.util.Optional;
@@ -7,12 +7,12 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 
-import com.gaguena.jdemooauth.data.PetData;
-import com.gaguena.jdemooauth.exception.BaseException;
-import com.gaguena.jdemooauth.exception.InvalidAttributeException;
-import com.gaguena.jdemooauth.model.PetModel;
-import com.gaguena.jdemooauth.repository.AnimalBreedRepository;
-import com.gaguena.jdemooauth.repository.PetRepository;
+import com.gaguena.jdemopet.data.PetData;
+import com.gaguena.jdemopet.exception.BaseException;
+import com.gaguena.jdemopet.exception.InvalidAttributeException;
+import com.gaguena.jdemopet.model.PetModel;
+import com.gaguena.jdemopet.repository.AnimalBreedRepository;
+import com.gaguena.jdemopet.repository.PetRepository;
 
 @Service
 public class PetService {

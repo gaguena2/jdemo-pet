@@ -1,4 +1,4 @@
-package com.gaguena.jdemooauth.model;
+package com.gaguena.jdemopet.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

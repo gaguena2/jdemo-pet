@@ -1,6 +1,6 @@
-package com.gaguena.jdemooauth.data;
+package com.gaguena.jdemopet.data;
 
-import com.gaguena.jdemooauth.model.PetModel;
+import com.gaguena.jdemopet.model.PetModel;
 
 public record PetData (String code, String name, AnimalBreedData breed) {
 

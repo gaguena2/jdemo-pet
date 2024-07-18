@@ -1,9 +1,9 @@
-package com.gaguena.jdemooauth.repository;
+package com.gaguena.jdemopet.repository;
 
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.stereotype.Repository;
 
-import com.gaguena.jdemooauth.model.PetModel;
+import com.gaguena.jdemopet.model.PetModel;
 
 @Repository
 public interface PetRepository extends PagingAndSortingRepository<PetModel, Long>{

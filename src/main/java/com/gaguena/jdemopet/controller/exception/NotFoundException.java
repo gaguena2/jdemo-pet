@@ -1,4 +1,4 @@
-package com.gaguena.jdemooauth.controller.exception;
+package com.gaguena.jdemopet.controller.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

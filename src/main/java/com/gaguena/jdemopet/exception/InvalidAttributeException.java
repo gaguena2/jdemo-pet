@@ -1,4 +1,4 @@
-package com.gaguena.jdemooauth.exception;
+package com.gaguena.jdemopet.exception;
 
 public class InvalidAttributeException extends BaseException {
 

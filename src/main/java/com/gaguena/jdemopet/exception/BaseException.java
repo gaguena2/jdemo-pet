@@ -1,4 +1,4 @@
-package com.gaguena.jdemooauth.exception;
+package com.gaguena.jdemopet.exception;
 
 public class BaseException extends Exception {
 
